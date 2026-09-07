@@ -2,9 +2,9 @@
 
 
 <h1 align="center">
-  <a href="https://github.com/Dreamerol/CARDFOLIO"
-     title="Data Structures & Algorithms — CARDFOLIO">
-    <b>🧩 𝗗𝗔𝗧𝗔 𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘𝗦 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
+  🧩 <a href="https://github.com/Dreamerol/CARDFOLIO"
+     title="Data Structures & Algorithms — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
+    <b>𝗗𝗔𝗧𝗔 𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘𝗦 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
   </a>
 </h1>
 
