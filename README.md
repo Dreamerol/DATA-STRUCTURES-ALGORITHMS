@@ -202,7 +202,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
 
+
+<div align="left">
 
 
 
@@ -261,6 +264,15 @@ Implemented as part of my preparation for **technical interviews** and improveme
 
 ## **📈 Progress**
 - Actively adding new problems and improving existing solutions
+
+
+
+
+
+</div>
+
+</div>
+
 
 
 ---
