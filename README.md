@@ -18,6 +18,20 @@
 <br>
 
 
+<a href="https://github.com/Dreamerol/Dreamerol/blob/main/DSA.png" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/DSA.png"
+    alt="DSA"
+    style="width: 100%; height: auto; display: block;"
+  >
+</a>
+
+
+
+
+
+
+
 
 [![Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/DSA.png)](https://dreamerol.github.io/MIHAELA-KOSEVA-AI/)
 
