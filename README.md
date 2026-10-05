@@ -18,7 +18,7 @@
 <br>
 
 
-<a href="https://github.com/Dreamerol/Dreamerol/blob/main/DSA.png" target="_blank">
+<a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/DSA.png"
     alt="DSA"
