@@ -4,8 +4,6 @@
 
 
 
-
-
 <h1 align="center">
   🧩 <a href="https://github.com/Dreamerol/CARDFOLIO"
      title="Data Structures & Algorithms — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
@@ -20,12 +18,10 @@
 <a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/DSA.png"
-    alt="DSA"
+    alt="DSA : Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer""
     style="width: 100%; height: auto; display: block;"
   >
 </a>
-
-
 
 
 
